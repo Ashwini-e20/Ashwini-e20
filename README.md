@@ -15,9 +15,6 @@ Crafting intelligent systems with code, logic & creativity.
   <img src="https://img.shields.io/badge/Python-2b3137?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/C++-2b3137?style=for-the-badge&logo=c%2b%2b&logoColor=00599C" />
   <img src="https://img.shields.io/badge/JavaScript-2b3137?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Java-2b3137?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-2b3137?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-2b3137?style=for-the-badge&logo=tensorflow&logoColor=ff6f00" />
   <img src="https://img.shields.io/badge/React-2b3137?style=for-the-badge&logo=react&logoColor=61dafb" />
   <img src="https://img.shields.io/badge/Git-2b3137?style=for-the-badge&logo=git&logoColor=F05032" />
 </p>
