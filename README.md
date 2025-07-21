@@ -30,7 +30,7 @@ Crafting intelligent systems with code, logic & creativity.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ashwini-e20&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=Ashwini-e20&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 ---
@@ -73,5 +73,5 @@ Crafting intelligent systems with code, logic & creativity.
 
 <!-- FOOTER -->
 <p align="center">
-  🌑 <i>"Keep coding, keep exploring. Great things are built one  commit at a time."</i> 🌑
+  🌑 <i>"Keep coding, keep exploring. Great things are built one commit at a time."</i> 🌑
 </p>
