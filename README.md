@@ -2,7 +2,7 @@
 <h1 align="center"> Hey there, I'm Ashwini Panada 👋</h1>
 
 <p align="center">
-🎓 <b>AI & Data Science Student</b> • 💻 <b>Open Source Contributor</b> <br/>
+🎓 <b>AI & Data Science Student</b><br/>
 Crafting intelligent systems with code, logic & creativity.
 </p>
 
@@ -14,23 +14,10 @@ Crafting intelligent systems with code, logic & creativity.
 <p align="center">
   <img src="https://img.shields.io/badge/Python-2b3137?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/C++-2b3137?style=for-the-badge&logo=c%2b%2b&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/JavaScript-2b3137?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-2b3137?style=for-the-badge&logo=react&logoColor=61dafb" />
+  <img src="https://img.shields.io/badge/SQL-2b3137?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/PowerBI-2b3137?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+  <img src="https://img.shields.io/badge/Excel-2b3137?style=for-the-badge&logo=microsoftexcel&logoColor=217346" />
   <img src="https://img.shields.io/badge/Git-2b3137?style=for-the-badge&logo=git&logoColor=F05032" />
-</p>
-
----
-
-<!-- STATS -->
-<h2 align="center">📈 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashwini-e20&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwini-e20&layout=compact&theme=tokyonight&hide_border=true" width="47%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=Ashwini-e20&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 ---
@@ -41,15 +28,23 @@ Crafting intelligent systems with code, logic & creativity.
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/Ashwini-e20/crowd-behavior-riot-detection">
-        <img src="https://img.shields.io/badge/Crowd_Detection-AI_Project-343a40?style=for-the-badge&logo=python&logoColor=ffdd54" /><br/>
-        <sub><b>Detect crowd behavior patterns & potential riot situations using computer vision.</b></sub>
+      <a href="https://github.com/Ashwini-e20/Student-Management-System">
+        <img src="https://img.shields.io/badge/Student_Management_System-Python_SQL-343a40?style=for-the-badge&logo=python&logoColor=ffdd54" /><br/>
+        <sub><b>Python-Tkinter app with SQL integration to manage student records, grades & attendance.</b></sub>
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/Ashwini-e20/Code_Alpha_Projects">
-        <img src="https://img.shields.io/badge/Code_Alpha-Python_Projects-343a40?style=for-the-badge&logo=github&logoColor=white" /><br/>
-        <sub><b>Python mini-projects built during Code Alpha internship.</b></sub>
+      <a href="https://github.com/Ashwini-e20/HR-Analytics-Dashboard">
+        <img src="https://img.shields.io/badge/HR_Analytics-PowerBI_Dashboard-343a40?style=for-the-badge&logo=powerbi&logoColor=F2C811" /><br/>
+        <sub><b>Interactive HR dashboard analyzing attrition, hiring trends & employee satisfaction.</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://github.com/Ashwini-e20/WiFi-Signal-Analyzer">
+        <img src="https://img.shields.io/badge/WiFi_Signal_Analyzer-Network_Monitor-343a40?style=for-the-badge&logo=wifi&logoColor=white" /><br/>
+        <sub><b>Real-time Python tool to capture & visualize Wi-Fi signals, strength & anomalies.</b></sub>
       </a>
     </td>
   </tr>
