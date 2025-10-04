@@ -28,23 +28,23 @@ Crafting intelligent systems with code, logic & creativity.
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/Ashwini-e20/Student-Management-System">
-        <img src="https://img.shields.io/badge/Student_Management_System-Python_SQL-343a40?style=for-the-badge&logo=python&logoColor=ffdd54" /><br/>
-        <sub><b>Python-Tkinter app with SQL integration to manage student records, grades & attendance.</b></sub>
+      <a href="https://github.com/Ashwini-e20/EDA-using-Python">
+        <img src="https://img.shields.io/badge/EDA-Python-343a40?style=for-the-badge&logo=python&logoColor=ffdd54" /><br/>
+        <sub><b>Performed full Exploratory Data Analysis on datasets to uncover trends, patterns & insights using Python.</b></sub>
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Ashwini-e20/HR-Analytics-Dashboard">
         <img src="https://img.shields.io/badge/HR_Analytics-PowerBI_Dashboard-343a40?style=for-the-badge&logo=powerbi&logoColor=F2C811" /><br/>
-        <sub><b>Interactive HR dashboard analyzing attrition, hiring trends & employee satisfaction.</b></sub>
+        <sub><b>Interactive Power BI dashboard analyzing employee attrition, hiring trends & satisfaction metrics.</b></sub>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <a href="https://github.com/Ashwini-e20/WiFi-Signal-Analyzer">
-        <img src="https://img.shields.io/badge/WiFi_Signal_Analyzer-Network_Monitor-343a40?style=for-the-badge&logo=wifi&logoColor=white" /><br/>
-        <sub><b>Real-time Python tool to capture & visualize Wi-Fi signals, strength & anomalies.</b></sub>
+      <a href="https://github.com/Ashwini-e20/Real-Time-WiFi-Triangulation-and-Network-Analysis-Tool">
+        <img src="https://img.shields.io/badge/WiFi_Triangulation-Python_Tool-343a40?style=for-the-badge&logo=wifi&logoColor=white" /><br/>
+        <sub><b>Real-time Python tool for Wi-Fi signal triangulation, monitoring, and network analysis.</b></sub>
       </a>
     </td>
   </tr>
@@ -66,7 +66,4 @@ Crafting intelligent systems with code, logic & creativity.
 
 ---
 
-<!-- FOOTER -->
-<p align="center">
-  🌑 <i>"Keep coding, keep exploring. Great things are built one commit at a time."</i> 🌑
-</p>
+
